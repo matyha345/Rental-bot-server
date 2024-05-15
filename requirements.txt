@@ -1,2 +1,13 @@
-selenium==3.141.0
-selenium-stealth==1.0.1
+selenium
+selenium-stealth
+
+alembic
+asyncpg
+psycopg
+psycopg-binary
+sqlalchemy
+
+fastapi
+pydantic
+pydantic-settings
+uvicorn
