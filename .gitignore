@@ -1,0 +1,11 @@
+# Игнорировать папку lib
+lib/
+
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+.lib
+*.pyc
+*.pyo
+*~

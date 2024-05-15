@@ -1,0 +1,554 @@
+{
+    "oneBedroom": [
+        {
+            "id": "3509448481",
+            "title": "1-к. квартира, 38 м², 2/9 эт.",
+            "price": "50 000 ₽ в месяц",
+            "pledge": "Залог 25 000 ₽ · Без комиссии · ЖКУ 2 000 ₽ + счетчики",
+            "street": "ул. 9 Апреля, 64р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_38_m_29_et._3509448481",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4083071108",
+            "title": "1-к. квартира, 42,2 м², 8/10 эт.",
+            "price": "35 000 ₽ в месяц",
+            "pledge": "Залог 17 500 ₽ · Комиссия 50% · ЖКУ 300 ₽ + счетчики",
+            "street": "ул. Горького, 172р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_422_m_810_et._4083071108",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4058283712",
+            "title": "1-к. квартира, 42 м², 2/4 эт.",
+            "price": "22 000 ₽ в месяц",
+            "pledge": "Залог 11 000 ₽ · Комиссия 50% · ЖКУ 500 ₽ + счетчики",
+            "street": "Пехотная ул., 10р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_42_m_24_et._4058283712",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2347108556",
+            "title": "2-к. квартира, 60 м², 5/5 эт.",
+            "price": "30 000 ₽ в месяц",
+            "pledge": "Залог 30 000 ₽ · Комиссия 60% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Озёрная ул., 5р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_60_m_55_et._2347108556",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3819343101",
+            "title": "3-к. квартира, 65 м², 4/9 эт.",
+            "price": "45 000 ₽ в месяц",
+            "pledge": "Залог 45 000 ₽ · Комиссия 50% · ЖКУ 1 200 ₽ + счетчики",
+            "street": "ул. Еловая Аллея, 53р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/3-k._kvartira_65_m_49_et._3819343101",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3786760814",
+            "title": "2-к. квартира, 70 м², 9/10 эт.",
+            "price": "55 000 ₽ в месяц",
+            "pledge": "Залог 55 000 ₽ · Комиссия 50% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Колхозная ул., 3-5р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_70_m_910_et._3786760814",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2558295274",
+            "title": "1-к. квартира, 41 м², 1/5 эт.",
+            "price": "25 000 ₽ в месяц",
+            "pledge": "Залог 25 000 ₽ · Комиссия 50% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "ул. Чаадаева, 1р-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_41_m_15_et._2558295274",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2016974334",
+            "title": "1-к. квартира, 40 м², 4/5 эт.",
+            "price": "24 000 ₽ в месяц",
+            "pledge": "Залог 24 000 ₽ · Комиссия 60% · ЖКУ 0 ₽ + счетчики",
+            "street": "Краснодонская ул., 2р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_40_m_45_et._2016974334",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4036308612",
+            "title": "2-к. квартира, 51 м², 1/3 эт.",
+            "price": "40 000 ₽ в месяц",
+            "pledge": "Залог 40 000 ₽ · Без комиссии · ЖКУ 1 500 ₽ + счетчики",
+            "street": "ул. Дмитрия Донского, 50р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_51_m_13_et._4036308612",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3787599450",
+            "title": "1-к. квартира, 38 м², 9/9 эт.",
+            "price": "22 000 ₽ в месяц",
+            "pledge": "Залог 22 000 ₽ · Комиссия 65% · ЖКУ 800 ₽ + счетчики",
+            "street": "Тихорецкая ул., 22Ар-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_38_m_99_et._3787599450",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3819608112",
+            "title": "1-к. квартира, 37 м², 10/14 эт.",
+            "price": "21 000 ₽ в месяц",
+            "pledge": "Залог 10 500 ₽ · Комиссия 55% · ЖКУ 500 ₽ + счетчики",
+            "street": "Летняя ул., 72р-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_37_m_1014_et._3819608112",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2241303962",
+            "title": "1-к. квартира, 44,8 м², 4/10 эт.",
+            "price": "70 000 ₽ в месяц",
+            "pledge": "Залог 70 000 ₽ · Без комиссии · ЖКУ 2 000 ₽ + счетчики",
+            "street": "ул. Аксакова, 129р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_448_m_410_et._2241303962",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3843190279",
+            "title": "1-к. квартира, 43 м², 8/9 эт.",
+            "price": "25 000 ₽ в месяц",
+            "pledge": "Без залога · Комиссия 50% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Майский пер., 1р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_43_m_89_et._3843190279",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3906670479",
+            "title": "1-к. квартира, 30,3 м², 4/5 эт.",
+            "price": "17 000 ₽ в месяц",
+            "pledge": "Без залога · Комиссия 70% · ЖКУ 800 ₽ + счетчики",
+            "street": "Бассейная ул., 49р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_303_m_45_et._3906670479",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4035788861",
+            "title": "1-к. квартира, 25 м², 1/3 эт.",
+            "price": "15 000 ₽ в месяц",
+            "pledge": "Залог 7 500 ₽ · Комиссия 50% · ЖКУ 2 000 ₽ + счетчики",
+            "street": "пос. Голубево, жилой комплекс Новое Голубево, Изумрудная ул.",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_25_m_13_et._4035788861",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3797898280",
+            "title": "2-к. квартира, 104 м², 5/6 эт.",
+            "price": "55 000 ₽ в месяц",
+            "pledge": "Залог 55 000 ₽ · Комиссия 50% · ЖКУ 2 000 ₽ + счетчики",
+            "street": "Комсомольская ул., 75р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_104_m_56_et._3797898280",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3861759558",
+            "title": "3-к. квартира, 72 м², 8/9 эт.",
+            "price": "60 000 ₽ в месяц",
+            "pledge": "Залог 60 000 ₽ · Комиссия 50% · ЖКУ 2 500 ₽ + счетчики",
+            "street": "ул. Генерала Раевского, 4р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/3-k._kvartira_72_m_89_et._3861759558",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3591655380",
+            "title": "1-к. квартира, 37 м², 10/10 эт.",
+            "price": "35 000 ₽ в месяц",
+            "pledge": "Залог 35 000 ₽ · Без комиссии · ЖКУ включены без счетчиков",
+            "street": "ул. Александра Невского, 220р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_37_m_1010_et._3591655380",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3430417729",
+            "title": "2-к. квартира, 65 м², 9/9 эт.",
+            "price": "75 000 ₽ в месяц",
+            "pledge": "Залог 37 500 ₽ · Без комиссии · Все ЖКУ включены",
+            "street": "ул. Виктора Гакуна, 5р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_65_m_99_et._3430417729",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3094459257",
+            "title": "3-к. квартира, 100 м², 2/5 эт.",
+            "price": "50 000 ₽ в месяц",
+            "pledge": "Залог 50 000 ₽ · Комиссия 50% · ЖКУ 3 000 ₽ + счетчики",
+            "street": "Ростовская ул., 5р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/3-k._kvartira_100_m_25_et._3094459257",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2630074627",
+            "title": "2-к. квартира, 56 м², 2/17 эт.",
+            "price": "30 000 ₽ в месяц",
+            "pledge": "Залог 30 000 ₽ · Без комиссии · ЖКУ включены без счетчиков",
+            "street": "Интернациональная ул., 46р-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_56_m_217_et._2630074627",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4036081856",
+            "title": "1-к. квартира, 55 м², 1/4 эт.",
+            "price": "28 000 ₽ в месяц",
+            "pledge": "Залог 14 000 ₽ · Комиссия 50% · ЖКУ 3 000 ₽ + счетчики",
+            "street": "ул. Партизана Железняка, 15р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_55_m_14_et._4036081856",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3491210820",
+            "title": "1-к. квартира, 41 м², 1/16 эт.",
+            "price": "35 000 ₽ в месяц",
+            "pledge": "Без залога · Комиссия 50% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Крымский пр., 2р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_41_m_116_et._3491210820",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3862503478",
+            "title": "2-к. квартира, 70 м², 8/8 эт.",
+            "price": "60 000 ₽ в месяц",
+            "pledge": "Залог 60 000 ₽ · Комиссия 50% · ЖКУ 2 500 ₽ + счетчики",
+            "street": "Малоярославская ул., 16р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_70_m_88_et._3862503478",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3861825567",
+            "title": "1-к. квартира, 45 м², 5/9 эт.",
+            "price": "30 000 ₽ в месяц",
+            "pledge": "Залог 30 000 ₽ · Комиссия 50% · ЖКУ 2 000 ₽ + счетчики",
+            "street": "Шахматная ул., 2р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_45_m_59_et._3861825567",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4020056486",
+            "title": "1-к. квартира, 40 м², 5/9 эт.",
+            "price": "23 000 ₽ в месяц",
+            "pledge": "Залог 11 500 ₽ · Комиссия 50% · ЖКУ 1 ₽ + счетчики",
+            "street": "ул. Горького, 176Гк1р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_40_m_59_et._4020056486",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4115393037",
+            "title": "1-к. квартира, 46 м², 9/13 эт.",
+            "price": "30 000 ₽ в месяц",
+            "pledge": "Залог 30 000 ₽ · Без комиссии · ЖКУ 1 500 ₽ + счетчики",
+            "street": "Ленинградский район, мкр-н Сельма, ул. Виллима Фермора, 6р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_46_m_913_et._4115393037",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3462005232",
+            "title": "2-к. квартира, 62 м², 5/9 эт.",
+            "price": "24 000 ₽ в месяц",
+            "pledge": "Залог 12 000 ₽ · Комиссия 63% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Печатная ул., 21Ар-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_62_m_59_et._3462005232",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2531108396",
+            "title": "2-к. квартира, 49 м², 2/4 эт.",
+            "price": "59 000 ₽ в месяц",
+            "pledge": "Залог 29 500 ₽ · Без комиссии · Все ЖКУ включены",
+            "street": "Зоологическая ул., 7р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_49_m_24_et._2531108396",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3267543801",
+            "title": "2-к. квартира, 70 м², 1/14 эт.",
+            "price": "55 000 ₽ в месяц",
+            "pledge": "Залог 55 000 ₽ · Комиссия 50% · ЖКУ 1 200 ₽ + счетчики",
+            "street": "Комсомольская ул., 85р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_70_m_114_et._3267543801",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3862260529",
+            "title": "1-к. квартира, 44 м², 3/4 эт.",
+            "price": "32 000 ₽ в месяц",
+            "pledge": "Залог 32 000 ₽ · Комиссия 50% · ЖКУ 2 000 ₽ + счетчики",
+            "street": "Нарвская ул., 101р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_44_m_34_et._3862260529",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3862592414",
+            "title": "2-к. квартира, 76 м², 8/16 эт.",
+            "price": "55 000 ₽ в месяц",
+            "pledge": "Залог 55 000 ₽ · Комиссия 50% · ЖКУ 3 000 ₽ + счетчики",
+            "street": "Советский пр-т, 81к1р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_76_m_816_et._3862592414",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3880980336",
+            "title": "1-к. квартира, 28,2 м², 3/5 эт.",
+            "price": "24 000 ₽ в месяц",
+            "pledge": "Залог 12 000 ₽ · Без комиссии · ЖКУ 1 700 ₽ + счетчики",
+            "street": "пер. Радистов, 2р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_282_m_35_et._3880980336",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3875387129",
+            "title": "1-к. квартира, 36 м², 16/20 эт.",
+            "price": "16 000 ₽ в месяц",
+            "pledge": "Без залога · Комиссия 50% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Интернациональная ул., 46р-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_36_m_1620_et._3875387129",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4090434233",
+            "title": "1-к. квартира, 37 м², 3/7 эт.",
+            "price": "20 000 ₽ в месяц",
+            "pledge": "Залог 20 000 ₽ · Комиссия 60% · ЖКУ 3 000 ₽ + счетчики",
+            "street": "Иртышский пер., 12р-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_37_m_37_et._4090434233",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "1132941466",
+            "title": "2-к. квартира, 55 м², 8/9 эт.",
+            "price": "30 000 ₽ в месяц",
+            "pledge": "Залог 30 000 ₽ · Комиссия 70% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "ул. 9 Апреля, 68р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_55_m_89_et._1132941466",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3420924151",
+            "title": "1-к. квартира, 42 м², 3/4 эт.",
+            "price": "24 000 ₽ в месяц",
+            "pledge": "Залог 24 000 ₽ · Без комиссии · ЖКУ 1 500 ₽ + счетчики",
+            "street": "пос. Шоссейное, Тепличная ул., 1",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_42_m_34_et._3420924151",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3862134132",
+            "title": "1-к. квартира, 50 м², 8/10 эт.",
+            "price": "45 000 ₽ в месяц",
+            "pledge": "Залог 45 000 ₽ · Комиссия 50% · ЖКУ 3 000 ₽ + счетчики",
+            "street": "Юбилейная ул., 10р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_50_m_810_et._3862134132",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3862105344",
+            "title": "2-к. квартира, 70 м², 13/13 эт.",
+            "price": "85 000 ₽ в месяц",
+            "pledge": "Залог 85 000 ₽ · Комиссия 50% · ЖКУ 3 000 ₽ + счетчики",
+            "street": "ул. Памяти Павших в Афганистане, 24р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_70_m_1313_et._3862105344",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3511055564",
+            "title": "2-к. квартира, 58,7 м², 2/8 эт.",
+            "price": "45 000 ₽ в месяц",
+            "pledge": "Залог 45 000 ₽ · Без комиссии · ЖКУ 3 000 ₽ + счетчики",
+            "street": "ул. Тенистая Аллея, 33р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_587_m_28_et._3511055564",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2790464691",
+            "title": "3-к. квартира, 70 м², 8/10 эт.",
+            "price": "60 000 ₽ в месяц",
+            "pledge": "Залог 60 000 ₽ · Без комиссии · ЖКУ 0 ₽ + счетчики",
+            "street": "ул. Генерала Раевского, 4р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/3-k._kvartira_70_m_810_et._2790464691",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3312824022",
+            "title": "1-к. квартира, 32 м², 1/5 эт.",
+            "price": "25 000 ₽ в месяц",
+            "pledge": "Залог 12 500 ₽ · Без комиссии · ЖКУ включены без счетчиков",
+            "street": "Калужский пер., 5р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_32_m_15_et._3312824022",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3845354324",
+            "title": "Квартира-студия, 27,7 м², 3/5 эт.",
+            "price": "39 000 ₽ в месяц",
+            "pledge": "Залог 39 000 ₽ · Без комиссии · ЖКУ 1 ₽ + счетчики",
+            "street": "ул. Сержанта Мишина, 1р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/kvartira-studiya_277_m_35_et._3845354324",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3392544855",
+            "title": "1-к. квартира, 37 м², 6/9 эт.",
+            "price": "25 000 ₽ в месяц",
+            "pledge": "Залог 25 000 ₽ · Без комиссии · ЖКУ 2 000 ₽ + счетчики",
+            "street": "Новгородская ул., 3Ак7р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_37_m_69_et._3392544855",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3862244310",
+            "title": "1-к. квартира, 40 м², 11/16 эт.",
+            "price": "45 000 ₽ в месяц",
+            "pledge": "Залог 45 000 ₽ · Комиссия 50% · ЖКУ 1 800 ₽ + счетчики",
+            "street": "ул. Горького, 96р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_40_m_1116_et._3862244310",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "3994535807",
+            "title": "2-к. квартира, 103 м², 5/6 эт.",
+            "price": "55 000 ₽ в месяц",
+            "pledge": "Залог 55 000 ₽ · Без комиссии · ЖКУ 0 ₽ + счетчики",
+            "street": "Комсомольская ул., 75р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_103_m_56_et._3994535807",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "2448618249",
+            "title": "1-к. квартира, 36 м², 10/10 эт.",
+            "price": "25 000 ₽ в месяц",
+            "pledge": "Залог 25 000 ₽ · Без комиссии · ЖКУ включены без счетчиков",
+            "street": "Понартская ул., 9Ар-н Московский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_36_m_1010_et._2448618249",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "1909472781",
+            "title": "1-к. квартира, 50 м², 2/5 эт.",
+            "price": "45 000 ₽ в месяц",
+            "pledge": "Залог 45 000 ₽ · Без комиссии · ЖКУ 3 000 ₽ + счетчики",
+            "street": "Артиллерийская ул., 74р-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_50_m_25_et._1909472781",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "4204101670",
+            "title": "1-к. квартира, 30,3 м², 3/5 эт.",
+            "price": "25 000 ₽ в месяц",
+            "pledge": "Залог 25 000 ₽ · Комиссия 40% · ЖКУ 3 500 ₽ + счетчики",
+            "street": "Свободная ул., 12р-н Центральный",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/1-k._kvartira_303_m_35_et._4204101670",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        },
+        {
+            "id": "1527208857",
+            "title": "2-к. квартира, 50 м², 3/4 эт.",
+            "price": "22 000 ₽ в месяц",
+            "pledge": "Залог 11 000 ₽ · Комиссия 50% · ЖКУ 1 000 ₽ + счетчики",
+            "street": "Ярославская ул., 2Ар-н Ленинградский",
+            "url": {
+                "url_link": "https://www.avito.ru/kaliningrad/kvartiry/2-k._kvartira_50_m_34_et._1527208857",
+                "image_URl": "https://20.img.avito.st/image/1/1.V9gYGra5-zEOukExOhN-tRm4-TemsVkwFrv5M6qv_zM.9DDcCvch4LjMplAqUu8xHVb582RfSU9HEPnmhVqiZoU"
+            }
+        }
+    ]
+}
